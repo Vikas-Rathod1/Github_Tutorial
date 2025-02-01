@@ -1,2 +1,6 @@
 # Github_Tutorial
-In this Tutorial i will cover all the GitHub related contents.
+In this Tutorial, I will cover all the GitHub-related content.
+
+
+
+
