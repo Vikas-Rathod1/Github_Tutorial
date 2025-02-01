@@ -1,0 +1,1 @@
+print("This is my first day at purple hat institude and i am learning AI under the guidence of Vikas Rathod Sir")
